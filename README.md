@@ -17,4 +17,4 @@ C#
 
 LICENSE
 ===
-unlicense
+[unlicense](https://github.com/wanggangzero/Reg_JSMin/blob/master/LICENSE)
